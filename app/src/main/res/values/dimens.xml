@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_medium">140dp</dimen>
+    <dimen name="edittext_medium">50dp</dimen>
+    <dimen name="layout_huge">350dp</dimen>
+    <dimen name="text_medium">25sp</dimen>
+    <dimen name="button_margin_small">10dp</dimen>
+</resources>
